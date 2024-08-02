@@ -33,6 +33,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://klosv-dev.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://klosv-dev.tistory.com/"> </a>
          <a href=mailto:freemake456@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:freemake456@gmail.com"> </a>
+         <a href=https://soundcloud.com/jonas-becker-585059823> <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=SoundCloud&logoColor=white&link=https://soundcloud.com/jonas-becker-585059823"> </a>
          <a href=https://www.notion.so/df7eca0fae7043d8b3037524143bee70> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/df7eca0fae7043d8b3037524143bee70"> </a>
          <a href=https://blog.naver.com/klosv> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/klosv"> </a>
           </div>  <br> 
